@@ -60,7 +60,9 @@ body {
 }
 
 /* Card2 */
-
+.iconn{
+  margin-left: 17rem;
+}
 .containers {
   padding: 44px;
 }
@@ -189,7 +191,7 @@ body {
 }
 
 .color-bg {
-  background: #4DB7FE
+  background: #142b6f;
 }
 
 #subscribe-button:hover {
@@ -205,6 +207,7 @@ body {
   width: 50px;
   text-align: center;
   text-decoration: none;
+ 
 }
 
 .fa:hover {

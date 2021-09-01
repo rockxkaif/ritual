@@ -18,26 +18,26 @@ export default function Card() {
                
                     <img src ={c3 }className="img-fluid" style={{height:'170px',width:'270'}} />
                         <div class="card-body">
-                            <p class="card-text"style={{color:'#142b6f'}}>Shop Multivitamin</p>
+                            <h6 class="card-text"style={{color:'#142b6f'}}>Shop Multivitamin</h6>
                         </div>
                 </div>
                 <div class="card " style={{width:'15rem',marginLeft:'15px'}}>
              
                     <img src ={a1 }className="img-fluid"style={{height:'170px',width:'270'}} />
                         <div class="card-body">
-                            <p class="card-text"style={{color:'#142b6f'}}>Shop Multivitamin</p>
+                            <h6 class="card-text"style={{color:'#142b6f'}}>Shop Multivitamin</h6>
                         </div>
                 </div><div class="card" style={{width:'15rem',marginLeft:'15px'}}>
                   
                     <img src ={m2 }className="img-fluid" style={{height:'170px',width:'270'}}/>
                         <div class="card-body">
-                            <p class="card-text"style={{color:'#142b6f'}}>Shop Multivitamin</p>
+                            <h6 class="card-text"style={{color:'#142b6f'}}>Shop Multivitamin</h6>
                         </div>
                 </div><div class="card" style={{width:'15rem',marginLeft:'20px'}}>
                    
                     <img src ={c2 }className="img-fluid" style={{height:'170px',width:'270'}} />
                         <div class="card-body">
-                            <p class="card-text"style={{color:'#142b6f'}}>Shop Multivitamin</p>
+                            <h6 class="card-text"style={{color:'#142b6f'}}>Shop Multivitamin</h6>
                         </div>
                 </div>
           </div>
